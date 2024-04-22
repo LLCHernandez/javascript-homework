@@ -1,2 +1,2 @@
 # javascript-homework
-Adding code to make the javascript work properly.
+This is a website to track all employees and their salaries, utilizing a few prompts a manager can track everything that they need!
